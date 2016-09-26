@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Lesson 2: The FUSE worked!</td>
+    <td>Lesson 3: Making Progress on the FUZE!!!</td>
     <td>Date</td>
-    <td>19/09/16</td>
+    <td>26/09/16</td>
   </tr>
 </table>
 
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>plugging in the FUSE and making sure everything worked.</td>
+    <td>Plugging in the Fuze (Much quicker this time!!) Then we picked up where we left off.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To get started on the FUSE and to start doing some coding.</td>
+    <td>To make up for the lost time in the first lesson.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,19 +41,20 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>After me and Finn got the FUSE working we started on some coding. We learnt how to 'print' blocks of text and change the ink and paper colour.</td>
+    <td>Me and Finn took in turn to read out the code and the other typed it up - I found this really helpful and avoided any fuss - which is always appreciated when you're trying to make up for lost time!
+We learnt about variables today.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The only limitations were finding a trailing cable at the beginning of the lesson and getting all the wires plugged in - it took longer than actually necessary. </td>
+    <td>Nothing really limited us today - we got working straight away and got the Fuse up and running, nothing hindered our learning or went wrong, which is absolutely marvelous! </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>To work quicker at sorting out all the wires at cables at the beginning of the lesson quicker.</td>
+    <td>As I said, we really didn't have any abhorrent hindrances and so our learning went smoothly, the only thing to improve on that I can think of is how that when we were coding, we sometimes missed spaces and that affected the output text.</td>
   </tr>
 </table>
 
