@@ -1,5 +1,5 @@
 ---
-title: Trying to Fix the FUZE!
+title: We made some progress
 layout: post
 author: amal.shakir
 permalink: /trying-to-fix-the-fuze!/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Lesson 1: The program didn't work</td>
+    <td>Lesson 6: We made some progress!</td>
     <td>Date</td>
     <td>12/09/16</td>
   </tr>
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Talk about what the FUSE  program we're working with is about-from teachers</td>
+    <td>carrying on with the Fuze.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To start using the FUSE program.</td>
+    <td>To make more progress.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>No</td>
+    <td>Yes</td>
   </tr>
 </table>
 
@@ -41,21 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>When trying to plug the FUSE in, me and Finn had to use trial and error to see which plugs to plug in and which to unplug.</td>
+    <td>Again, Finn and I took in turns to read no the other type, again, this worked really well and I had no qualms with the progress made.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Unfortunately the FUSE and the monitor didn't work as they should, the monitor kept flashing the screen on and off, to the point where it wouldn't turn on.
-
-This ensured that we wouldn't be able to work.</td>
+    <td>Thankfully, we didn't have many distractions when working on the Fuze. But sometimes we didn’t fully understand the code and it took us a bit of I me to work out where the bugs are.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Apart from the computer malfunction, I need to work on being unafraid of using trial and error because it shouldn't break (the computer).
+    <td>Though only thing that I need to change for next time is to try to understand the script while we were writing it.
 </td>
   </tr>
 </table>
