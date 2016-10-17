@@ -1,5 +1,5 @@
 ---
-title: The FUZE is working!
+title: Limited in progress
 layout: post
 author: amal.shakir
 permalink: /the-fuze-is-working!/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Lesson 3: Making Progress on the FUZE!!!</td>
+    <td>Lesson 7: limited in progress</td>
     <td>Date</td>
-    <td>26/09/16</td>
+    <td>03/10/16</td>
   </tr>
 </table>
 
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Plugging in the Fuze (Much quicker this time!!) Then we picked up where we left off.</td>
+    <td>Finn wasn't in the lesson for the first half of the lesson.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To make up for the lost time in the first lesson.</td>
+    <td>To work on the 'assessment’ that was in the book.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,20 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Me and Finn took in turn to read out the code and the other typed it up - I found this really helpful and avoided any fuss - which is always appreciated when you're trying to make up for lost time!
-We learnt about variables today.</td>
+    <td>Since I was alone for the first half of this lesson it took more time for me to read the text and type rather than hearing it and typing it at the same time.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Nothing really limited us today - we got working straight away and got the Fuse up and running, nothing hindered our learning or went wrong, which is absolutely marvelous! </td>
+    <td>Finn not being there, and the actual code that I was coding seemed to be having a problem with my code and it was really hard to find out what it was. When Finn did come back to the lesson we managed to fix it. Me and Finn also found it hard to just work as a pair again but hopefully, as he should be here at the beginning of next lesson.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>As I said, we really didn't have any abhorrent hindrances and so our learning went smoothly, the only thing to improve on that I can think of is how that when we were coding, we sometimes missed spaces and that affected the output text.</td>
+    <td>I should probably read through the text a bit more thoroughly to make sure I don't miss anything. And me ad Finn should probably work better as a team.</td>
   </tr>
 </table>
 
