@@ -1,5 +1,5 @@
 ---
-title: We made some progress
+title: Advanced number guessing!
 layout: post
 author: amal.shakir
 permalink: /trying-to-fix-the-fuze!/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Lesson 6: We made some progress!</td>
+    <td>Advanced Number Guessing</td>
     <td>Date</td>
     <td>12/09/16</td>
   </tr>
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>carrying on with the Fuze.</td>
+    <td>Carrying on with the FUZE but without Finn for the ½ of the lesson.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To make more progress.</td>
+    <td>To carry on with the FUZE but more specifically, to carry on with the number guessing game.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Again, Finn and I took in turns to read no the other type, again, this worked really well and I had no qualms with the progress made.</td>
+    <td>Finn wasn't in the lesson for reasons beyond me, for half of the lesson. I  carried on with the FUZE but as it was Finn who normally plugs in the wires, I had to ask for a bit of help but I knew how to set up most of the FUZE.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Thankfully, we didn't have many distractions when working on the Fuze. But sometimes we didn’t fully understand the code and it took us a bit of I me to work out where the bugs are.</td>
+    <td>It was hard to work faster on my own as I couldn’t type while hearing but had to keep on looking down at the text. But other than that, there was no hindrance and even this once went when Finn appeared. </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Though only thing that I need to change for next time is to try to understand the script while we were writing it.
+    <td>Remembering how to set up the FUZE would be useful. Working faster and that’s it really, everything else is going smoothly for now.
 </td>
   </tr>
 </table>
