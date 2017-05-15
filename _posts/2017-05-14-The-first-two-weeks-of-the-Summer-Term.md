@@ -12,7 +12,9 @@ The first two weeks of the Summer Term - IT Lessons
 
 	It seems that Python can be used in After Effects and other programmes. We started with learning booleans and other calculation symbols - + - * / - using it is challenging and sometimes the instructions can be confusing. But a challenge is always good fun. Working through them with Finn is competitive and fun going through the lessons - you might get a badge - like so:
 
-	I'll write again for next week!
+![image alt text]({{ site.url }}/public/RodiGOscgnKHlffVHUmh0g_img_0.png)
 
-	Bye
+I'll write again for next week!
+
+Bye
 
